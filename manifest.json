@@ -1,0 +1,38 @@
+{
+  "name": "SHARENESIA",
+  "short_name": "SHARENESIA",
+  "start_url": "https://sharenesia.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Berbagi teknologi yang sedang hangat saat ini.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s48/fav-icon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s72/fav-icon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s96/fav-icon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s144/fav-icon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s168/fav-icon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s192/fav-icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-2q4OWZI7YkI/XbMU_aN_sOI/AAAAAAAAUps/P4w_xB-3af4UIubDh23mz78anGIwj2pzACLcBGAsYHQ/s512/fav-icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
